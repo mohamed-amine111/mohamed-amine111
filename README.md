@@ -5,9 +5,14 @@
 </div>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/your-profile-url](https://www.linkedin.com/in/mohamed-amine-b-s-5baa7425a/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:[workamine01@gmail.com](mailto:your.email@example.com)"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/mohamed-amine-b-s-5baa7425a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:workamine01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
 </p>
+
 
 ## 🚀 About Me
 
