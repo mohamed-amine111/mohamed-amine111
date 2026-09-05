@@ -29,17 +29,13 @@ I'm particularly interested in **Financial Analysis, Business Intelligence, Cust
 
 **Jan 2026 – Jun 2026**
 
-* Analyzed financial and operational data to support decision-making.
-* Worked on data preparation, analysis, and reporting.
-* Applied data-driven approaches to financial risk analysis.
+Worked on AgriScore, a data-driven agricultural credit risk scoring project combining financial and geospatial data. Analyzed satellite imagery using Google Earth Engine and environmental indicators such as NDVI, NDWI, and EVI, transforming geospatial data into actionable risk scores for agricultural credit assessment. Developed skills in Python, data analysis, geospatial analytics, and financial risk modeling.
 
 ### Data Manager — AIESEC
 
 **Aug 2023 – Feb 2024**
 
-* Managed and analyzed data related to international volunteer exchanges.
-* Coordinated activities and followed operational performance.
-* Worked with international stakeholders and cross-functional teams.
+Managed and coordinated the international volunteer exchange process, including collecting and organizing participant data, monitoring exchange processes, and coordinating with international stakeholders. This experience strengthened my communication, teamwork, project management, problem-solving, and organizational skills in an international environment.
 
 ## 🔭 What I'm Currently Working On
 
